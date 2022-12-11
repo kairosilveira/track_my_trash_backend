@@ -1,2 +1,4 @@
 /venv
 .env
+Makefile
+src/__pycache__
