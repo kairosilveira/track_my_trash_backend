@@ -15,7 +15,7 @@ In this file is the flask code for the API to find the nearests recycling places
 ## How to run
 First, to run the webapp locally you are going to have to clone the repository:
 
-    gh repo clone kairosilveira/track_my_trash_backend
+    git clone https://github.com/kairosilveira/track_my_trash_backend
     cd track_my_trash_backend/
 
 Then, create and activate the virtual environment and install the dependencies(make sure eu you have python3 installed):
